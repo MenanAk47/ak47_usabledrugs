@@ -2,8 +2,6 @@ Config = {}
 Config.SharedObjectName = 'esx:getSharedObject'      -- Leave this if you didn't change shareobject name
 Config.PatreonEmail = 'Your Patrion Email' --Take authorisation with your patreon email.
 
-Config.ESXFinal = false -- if you are using ESX 1.2 or Disc/Weight inventory, make it true
-
 Config.Weed = {
 	tCycle = 'spectator6',
 	tCycleStrength = 0.66,
