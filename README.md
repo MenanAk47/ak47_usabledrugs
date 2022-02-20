@@ -3,6 +3,7 @@
 <p><strong>Video Showcase:</strong> <a href="https://youtu.be/zQJ--6U52Aw">YouTube</a></p>
 <p><strong><a href="https://github.com/MenanAk47/ak47_qb_usabledrugs" target="_blank">QBCore Version</a></strong></p>
 <p>Fully Compatible with <a href="https://youtu.be/uiQaDUQ7FBo" target="_blank"><strong>ak47_druglabs</strong></a></p>
+<p>Not Compatible with Ox/linden Inventory</p>
 <p><strong>Features: </strong></p>
 <ol>
 <li>SQL included</li>
